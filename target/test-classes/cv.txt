@@ -1,0 +1,112 @@
+Serdar Yildiz
+
+Automation Tester, SDET
+Location: Glasgow, G52   E- mail: serdaryildiz2001@gmail.com  Mobile: +44 7448 7457 23
+PROFILE SUMMARY
+	4 years of experience in IT industry
+	Strong knowledge of banking domain and CRM services, Web and Client-Server software applications
+	Experienced in Software Development Life Cycle (SDLC), Software Test Life Cycle (STLC), Defect Life Cycle within Waterfall and Agile Scrum Methodologies and very well exposed to all Scrum ceremonies.
+	Hands on experience in creating Testing Framework from scratch using Selenium WebDriver, JUnit/TestNG, Cucumber with Java and Maven, based on Page Object Model in IntelliJ or Eclipse. 
+	Experienced in Core Java with the application of Object-Oriented Programming (OOP) concepts, Collections, String manipulation and Exception Handling. 
+	Experienced in creating and maintaining Automation Framework models (Behavioral Driven Development BDD, TDD, Hybrid and Data Driven Frameworks)
+	Solid understanding and experience with different databases - Oracle Database and MySQL- SQL, JDBC and ODBC. 
+	Implemented testing technics for RESTful API with REST Assured Library, also very comfortable with POSTMAN for manual API testing. 
+	Strong knowledge of API Web Services testing
+	Achieved Backend Database Testing by writing complex SQL queries with deep PL/SQL knowledge.
+	Performed Functional and Automation Testing, UI, UAT, Smoke Testing, Positive and Negative Testing, Regression Testing, Sanity Testing as well as cross platform testing of web-based and client/server applications.
+	Utilized Jira Xray for both project management and defect management. Very experienced in HP PPM for project and portfolio management.
+	Comfortable with Git/GitHub version control system and with Jenkins for Continuous Integration, Continuous Development and Continuous Delivery.
+	Mobile Testing with both Appium + Emulator and Cloud Services.
+	Good analytical and communications skills. Proved cross functional and self-organized team member. Quick Learner, detail oriented, positive and adaptable. 
+
+TECHNICAL SKILLS 
+Programming Languages	Java, Cucumber Gherkin, SQL, HTML, CSS, XML
+Testing Frameworks	Cucumber Behavioral Driven Development BDD Framework, Data Driven Testing, Test Driven Development
+Testing Tools	Selenium WebDriver, TestNG, JUnit, Selenium Grid, REST Assured Library, JDBC
+Test Building Tools	Maven
+Defect Tracking Tool	Jira
+Web Technologies	HTML, CSS, XML
+Browsers	Chrome, Firefox, Safari, IE 
+Databases	Oracle Database, MySQL, Postgres
+Cloud	Amazon Web Services AWS, BrowserStack 
+Web Services 	API service types you have worked with 
+IDEs	IntelliJ, Eclipse, SQL Developer, Postman, Android Studio, Appium
+Design Patterns	Page Object Model (POM), Singleton Design Pattern, OOP
+CI/CD	Jenkins
+Methodologies	Waterfall, Agile Scrum
+API Testing	REST Assured Library and REST Assured API, POSTMAN
+Mobile Testing	Appium, Cloud Testing, Android Studio
+Database Connectivity	JDBC
+Additional Language	Turkish
+	
+WORK EXPERIENCE
+SDET/Test Automation Engineer
+Project 1							                      
+January 2019 - Present
+
+	Successfully created detailed, comprehensive, and well-structured Test Plans Test Scenarios and Test Cases by using Java to ensure maximum test coverage and improved test efficiency.
+	Developed Cucumber Behavioral Driven Development BDD Test Automation Framework from scratch using Selenium WebDriver, TestNG, JUnit, Maven based on Page Object Model to improve the collaboration of all stakeholders and easily engage in product development.
+	Performed remote execution of daily Smoke Tests with Jenkins and sent email reports to ensure that the major functions of the software were functioning properly. 
+	Implemented Java, Selenium WebDriver to automate Scenarios written in Gherkin syntax ensuring minimal manual intervention and code reusability.
+	Created many Test Scenarios and Test Cases such as Smoke, Functionality, Positive, Negative and Regression Testing.
+	Collaborated with developers for bug fixes, debugs, and code developments.
+	Created SQL queries for validating the data in database.
+	Use Git as the Version Control tool and Jira with Xray as the Defect Tracking tool.
+	Created HTML reports, Extent Reports, and Cucumber JSON Reports with detailed Test Steps and screenshots.
+	Created JSON POST and GET requests for REST Assured Library using POSTMAN to assert responses.
+	Worked in a multifunctional environment that requires solid human relationship skills.
+
+
+SDET/Test Automation Engineer
+Project 2
+September 2019 –January 2019
+
+	Developed, implemented and documented best practices for test automation using Test Automation Toolset; Java, Selenium WebDriver, TestNG, Cucumber, JUnit, Maven, Jenkins, and Git.
+	Developed Test Scenarios and Test Cases by using Java and performed Manual Testing to learn more about the user perspective of the application in development and to understand the problem comprehensively.
+	Configured the pom.xml file dependencies and plugins for test compatibility.
+	Performed Positive and Negative Testing by using Cucumber Scenario Outline for all possible valid and invalid credentials.
+	Implemented Java, Selenium WebDriver to automate Scenarios written in Gherkin syntax ensuring minimal manual intervention and code reusability. 
+	Performed Back-end Testing by writing complex SQL queries and used JDBC libraries to ensure test coverage and find defects effectively in the early stages of the product development. 
+	Implemented Functional Testing Framework for all modules using Selenium WebDriver.
+along with TestNG Framework.
+	Involved in logging and tracking defects using Jira. 
+	Conducted Functional Testing, Regression Testing using Selenium with Data-Driven Framework.
+	Created HTML reports, Extent Reports, and Cucumber JSON Reports with detailed Test Steps and screenshots.
+	Experienced in Agile Testing methodology with Scrum Framework and attended Daily Stand-up Meeting, Sprint Planning Meeting, Sprint Grooming Meeting, Sprint Review Meeting, Sprint Demo Meeting and Sprint Retrospective meetings for each Sprint deliverables.
+
+
+Chief of Cybercrimes Forensics Lab
+Cybercrimes Department, Istanbul
+August 2011- February 2014
+
+	Worked as the Chief of Cybercrimes Forensics Lab at the Cybercrimes Department
+	Created reports on Cybercrimes and Forensic Analyses of digital materials	
+	Worked in both Agile and Waterfall environments.
+
+EDUCATION
+	Master’s Degree, University of Arkansas, Arkansas, USA 			2002-2005
+	Ph.D., University of Central Florida, Orlando, Florida, USA 			2005-2008
+	Bachelor of Science, Police Academy, Turkey 					1995-1999
+
+HOBBIES
+	2018 - Present	Ice Skating, worked as Ice Skating Trainer
+	Learning History
+
+
+
+LANGUAGES
+	English Full Proficiency
+	Turkish Native Language
+
+
+REFERENCES
+Ozzy
+Cybertek School
+Email
+
+Alperen Ozkan
+email
+
+Ahmet Celik
+email
+
